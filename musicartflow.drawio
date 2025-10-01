@@ -103,7 +103,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MeHtres2Lm9T80RMlYpn-32" value="Öğrenci Yoklaması" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MeHtres2Lm9T80RMlYpn-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MeHtres2Lm9T80RMlYpn-34" target="MeHtres2Lm9T80RMlYpn-36">
           <mxGeometry relative="1" as="geometry" />
@@ -148,7 +148,7 @@
           <mxGeometry x="230" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MeHtres2Lm9T80RMlYpn-49" value="Kendi Takvimini Görme" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="-120" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MeHtres2Lm9T80RMlYpn-51" value="Gün Gün Öğretmen, Ders, Sınıf Takvimi" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="520" width="120" height="60" as="geometry" />
@@ -207,10 +207,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MeHtres2Lm9T80RMlYpn-74" value="Öğrenci Son Ders Kontrolü" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="230" width="195" height="60" as="geometry" />
+          <mxGeometry x="20" y="240" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MeHtres2Lm9T80RMlYpn-78" value="Veliye Mesaj Gönderimi" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="-190" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MeHtres2Lm9T80RMlYpn-83" value="Ders Ekle/Pasife Al" style="whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="750" y="520" width="120" height="60" as="geometry" />
